@@ -156,3 +156,4 @@ The system uses a dedicated Telegram Bot for instant threshold alerts and direct
 ### 🚨 Distance Reading Check
 - Ensure HC-SR04 **Trig** is connected to `GPIO 5` and **Echo** to `GPIO 18`.
 - If no obstacle is within range, distance reports `0.0 cm / Standby`. When an object approaches within `<= 20 cm`, a **Low Distance Alert** fires to Telegram!
+# JU-Iot
